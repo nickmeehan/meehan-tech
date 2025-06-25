@@ -15,7 +15,7 @@ layout: default
 
       <div class="products">
         <div class="product">
-          <h3><a href="https://nextmeet.ing/" target="_blank">Next Meeting (Coming Soon)</a></h3>
+          <h3><a href="https://nextmeet.ing/" target="_blank">Next Meeting</a></h3>
           <p>Jump to your next meeting right from Zoom. No calendar clicking required.</p>
         </div>
       </div>
