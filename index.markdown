@@ -10,13 +10,18 @@ layout: default
     <div class="hero-content">
       <h1 class="logo">{{ site.company.name }}</h1>
       <p class="description">
-        We build SaaS products.
+        We build products.
       </p>
 
       <div class="products">
         <div class="product">
           <h3><a href="https://nextmeet.ing/" target="_blank">Next Meeting</a></h3>
           <p>Jump to your next meeting right from Zoom. No calendar clicking required.</p>
+        </div>
+
+        <div class="product">
+          <h3><a href="https://frontmatter.news/" target="_blank">Frontmatter</a></h3>
+          <p>Compare real-time coding agent configurations side by side.</p>
         </div>
       </div>
 
