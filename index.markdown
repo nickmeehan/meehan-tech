@@ -21,7 +21,7 @@ layout: default
 
         <div class="product">
           <h3><a href="https://frontmatter.news/" target="_blank">Frontmatter</a></h3>
-          <p>The wire for coding agents. Track what every agent supports, side by side.</p>
+          <p>Compare real-time coding agent configurations side by side.</p>
         </div>
       </div>
 
